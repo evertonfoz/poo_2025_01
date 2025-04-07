@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/bin/Debug/net9.0/AgendaApp.ConsoleApp
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/bin/Debug/net9.0/AgendaApp.ConsoleApp.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/bin/Debug/net9.0/AgendaApp.ConsoleApp.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/bin/Debug/net9.0/AgendaApp.ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/bin/Debug/net9.0/AgendaApp.ConsoleApp.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/refint/AgendaApp.ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/AgendaApp.ConsoleApp.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula_20250407/AgendaApp.ConsoleApp/obj/Debug/net9.0/ref/AgendaApp.ConsoleApp.dll
