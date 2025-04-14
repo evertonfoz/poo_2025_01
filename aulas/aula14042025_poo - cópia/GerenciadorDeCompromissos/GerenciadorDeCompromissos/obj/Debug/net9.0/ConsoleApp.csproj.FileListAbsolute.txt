@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/bin/Debug/net9.0/ConsoleApp.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/refint/ConsoleApp.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ConsoleApp.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/Debug/net9.0/ref/ConsoleApp.dll
