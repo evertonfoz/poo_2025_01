@@ -28,7 +28,7 @@ var descricao = Console.ReadLine();
 Console.Write("Digite o LOCAL para o compromisso: ");
 var local = Console.ReadLine();
 
-DateTime dataEHoraParaCompromisso = dataCompromisso.Add(horaCompromisso);
+DateTime dataEHoraParaCompromisso = dataCompromisso.Add(horaCompromisso); 
 
 Console.WriteLine("Data: " + dataCompromisso.Date.ToShortDateString());
 Console.WriteLine($"Hora: {horaCompromisso}");

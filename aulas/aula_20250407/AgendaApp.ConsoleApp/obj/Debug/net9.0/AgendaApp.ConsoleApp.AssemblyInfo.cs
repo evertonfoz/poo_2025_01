@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaApp.ConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+795cb6ce19d53a77547902837fc5bb76450f32c8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8adb138a1b8d91ebf9c19b146631241476ad9810")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaApp.ConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaApp.ConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
