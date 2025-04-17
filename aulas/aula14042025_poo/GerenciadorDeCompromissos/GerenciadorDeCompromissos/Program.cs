@@ -15,6 +15,18 @@ while (true) {
         Console.Write($"Erro: {e.Message}\nDigite uma nova data: ");
     }
 }
+
+Console.Write("Digite a hora do compromisso ((HH:mm)modelo 24 horas): ");
+while (true) {
+    try 
+    {
+        compromisso.Hora =Console.ReadLine();
+        // compromisso.Hora = timeSpan;
+        break;
+    } catch (Exception e) {
+        Console.Write($"Erro: {e.Message}\nDigite uma nova hora: ");
+    }
+}
 // Console.Write("Digite a hora do compromisso (HH:mm): ");
 // var horaDigitada = Console.ReadLine();
 

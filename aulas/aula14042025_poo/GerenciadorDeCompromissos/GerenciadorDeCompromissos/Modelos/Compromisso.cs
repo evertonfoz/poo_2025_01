@@ -10,9 +10,19 @@ public class Compromisso
         {
             _validarDataInformada(value);
             _validarDataValidaParaCompromisso();
+            // _data = Convert.ToDateTime(value);
         }
     }
-    public TimeSpan Hora { get; set; }
+    private TimeSpan _hora;
+    public string Hora 
+    { 
+        get{return _hora.ToString(); } 
+        set 
+        {
+            _validarHoraInformada(value);
+            _validarHoraValidaParaCompromisso();
+        }
+    }
     public string Descricao { get; set; }
     public string Local { get; set; }
 
@@ -35,6 +45,33 @@ public class Compromisso
         //     throw new Exception("Data ainda não informada");
         // }
     }
+    
+    private void _validarHoraInformada(string hora) {
+                if (!TimeSpan.TryParseExact(
+                    hora, @"hh\:mm", 
+                     System.Globalization.CultureInfo.GetCultureInfo("pt-BR"),
+                       out _hora))
+        {
+            throw new Exception($"Hora {hora} Inválida!");
+        }
+
+
+    //     if (hora < TimeSpan.Zero || hora >= TimeSpan.FromDays(1))
+    // {
+    //     throw new Exception($"Hora {hora:hh\\:mm} inválida.");
+    // }
+        }
+
+
+    private void _validarHoraValidaParaCompromisso() {
+        if (_hora < TimeSpan.FromHours(7) ) {
+            throw new Exception($"Hora {_hora.ToString(@"hh\:mm")} é muito cedo para marcar compromisso.");
+        }
+        if (_hora > TimeSpan.FromHours(22)) {
+            throw new Exception($"Hora {_hora.ToString(@"hh\:mm")} é muito tarde para marcar compromisso.");
+        }
+    }
+
     // private TimeSpan _hora;
     // public TimeSpan Hora
     // {

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj": {}
+    "/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj": {}
   },
   "projects": {
-    "/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj": {
+    "/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj",
+        "projectUniqueName": "/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj",
         "projectName": "ConsoleApp",
-        "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj",
+        "projectPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/ConsoleApp.csproj",
         "packagesPath": "/Users/evertoncoimbradearaujo/.nuget/packages/",
-        "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/",
+        "outputPath": "/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula14042025_poo/GerenciadorDeCompromissos/GerenciadorDeCompromissos/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/evertoncoimbradearaujo/.nuget/NuGet/NuGet.Config"
