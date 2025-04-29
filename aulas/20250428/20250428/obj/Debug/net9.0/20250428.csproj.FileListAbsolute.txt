@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/bin/Debug/net9.0/20250428
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/bin/Debug/net9.0/20250428.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/bin/Debug/net9.0/20250428.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/bin/Debug/net9.0/20250428.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/bin/Debug/net9.0/20250428.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/refint/20250428.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/20250428.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/20250428/20250428/obj/Debug/net9.0/ref/20250428.dll
