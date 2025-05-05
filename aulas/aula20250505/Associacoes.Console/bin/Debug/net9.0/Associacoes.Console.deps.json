@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Associacoes.Console/1.0.0": {
+        "dependencies": {
+          "Associacoes.Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Associacoes.Console.dll": {}
+        }
+      },
+      "Associacoes.Modelo/1.0.0": {
+        "runtime": {
+          "Associacoes.Modelo.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Associacoes.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Associacoes.Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

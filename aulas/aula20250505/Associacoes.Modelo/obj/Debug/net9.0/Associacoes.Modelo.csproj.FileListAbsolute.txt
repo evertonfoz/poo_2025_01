@@ -1,0 +1,12 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/bin/Debug/net9.0/Associacoes.Modelo.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/bin/Debug/net9.0/Associacoes.Modelo.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/bin/Debug/net9.0/Associacoes.Modelo.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/refint/Associacoes.Modelo.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/Associacoes.Modelo.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/aulas/aula20250505/Associacoes.Modelo/obj/Debug/net9.0/ref/Associacoes.Modelo.dll
