@@ -1,0 +1,15 @@
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/bin/Debug/net9.0/CompromissosCLI
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/bin/Debug/net9.0/CompromissosCLI.deps.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/bin/Debug/net9.0/CompromissosCLI.runtimeconfig.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/bin/Debug/net9.0/CompromissosCLI.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/bin/Debug/net9.0/CompromissosCLI.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.AssemblyInfoInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.AssemblyInfo.cs
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.csproj.CoreCompileInputs.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.sourcelink.json
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/refint/CompromissosCLI.dll
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.pdb
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/CompromissosCLI.genruntimeconfig.cache
+/Users/evertoncoimbradearaujo/Documents/GitHub/poo_2025_01/preparacao/cli/CompromissosCLI/obj/Debug/net9.0/ref/CompromissosCLI.dll

@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompromissosCLI", "CompromissosCLI.csproj", "{A49DBDE3-2C39-2A6C-5DBD-275276C933CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A49DBDE3-2C39-2A6C-5DBD-275276C933CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A49DBDE3-2C39-2A6C-5DBD-275276C933CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A49DBDE3-2C39-2A6C-5DBD-275276C933CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A49DBDE3-2C39-2A6C-5DBD-275276C933CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF88411-4FE1-45A6-A830-D7B8A707FFD4}
+	EndGlobalSection
+EndGlobal
